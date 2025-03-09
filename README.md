@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://kothail.github.io/CSD2107/Memory-Card-Game/)
+## <b> [Click here to Play the GAME!!](https://kothail.github.io/CSD2107/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
